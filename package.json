@@ -1,0 +1,22 @@
+{
+  "name": "weather-data-expressjs",
+  "version": "1.0.0",
+  "description": "A simple weather application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tontonsevilla/weather-data-expressjs.git"
+  },
+  "author": "Tonton Sevilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tontonsevilla/weather-data-expressjs/issues"
+  },
+  "homepage": "https://github.com/tontonsevilla/weather-data-expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
